@@ -1,0 +1,21 @@
+# Build output
+/build/
+/dist/
+*.apk
+*.dex
+*.class
+
+# Signing material
+*.keystore
+*.jks
+*.pk8
+*.pem
+
+# Local SDK and tool binaries
+/sdk/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

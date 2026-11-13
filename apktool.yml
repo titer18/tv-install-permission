@@ -1,0 +1,19 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: adbperm.apk
+compressionType: false
+doNotCompress: []
+isFrameworkApk: false
+packageInfo: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '29'
+sharedLibrary: false
+sparseResources: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.11.1
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'
